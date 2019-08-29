@@ -1,0 +1,4 @@
+---
+- src: git+git@github.com:asbek97/ansible-role-docker.git
+  version: master
+  name: ansible-role-docker
